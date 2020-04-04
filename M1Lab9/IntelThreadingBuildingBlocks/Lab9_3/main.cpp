@@ -3,6 +3,7 @@
 #include "tbb/tick_count.h"
 #include <chrono>
 #include <iostream>
+
 using namespace tbb;
 
 const int DIMENSION = 3000;
@@ -43,5 +44,6 @@ int main() {
 	duration = (tick_count::now() - startTime).seconds() * 1000;
 
 	std::cout << "DIMENSION [" << DIMENSION << "x" << DIMENSION << "]: " << duration << " ms" << std::endl;
+	
 	return 0;
 }
