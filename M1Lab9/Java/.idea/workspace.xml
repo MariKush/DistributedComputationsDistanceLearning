@@ -14,7 +14,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1ZzsxX06L6OjD6JqbjSNWIEM41S" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,6 +27,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -63,6 +68,7 @@
       <updated>1585853504938</updated>
       <workItem from="1585853510895" duration="2137000" />
       <workItem from="1585862126112" duration="3925000" />
+      <workItem from="1586110174894" duration="61000" />
     </task>
     <servers />
   </component>
@@ -74,6 +80,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1585862278898" />
+    <state x="421" y="42" key="FileChooserDialogImpl" timestamp="1586110184790">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="42" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1586110184790" />
     <state width="1237" height="59" key="GridCell.Tab.0.bottom" timestamp="1585866055263">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -90,6 +100,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1237" height="59" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1585866055263" />
+    <state x="315" y="40" key="NewModule_or_Project.wizard" timestamp="1586110231615">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="315" y="40" key="NewModule_or_Project.wizard/0.0.1280.680@0.0.1280.680" timestamp="1586110231615" />
     <state x="121" y="0" key="SettingsEditor" timestamp="1585862260499">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

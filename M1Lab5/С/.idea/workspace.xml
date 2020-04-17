@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5dd65026-a017-49d5-b23d-c6afc44ae243" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="ProjectId" id="1YME7DmqSU3RnDT1sMBgQXcMROc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Go" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build Barrier_array.go (1)">
+    <configuration name="go build Barrier_array.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GoProjects" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Barrier_array.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build Barrier_array.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GoProjects" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/tasks_5/Barrier_array.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build Barrier_array.go (1)" />
+        <item itemvalue="Go Build.go build Barrier_array.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="20" key="#GOROOT" timestamp="1582743928991">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="233" y="20" key="#GOROOT/0.0.1280.720@0.0.1280.720" timestamp="1582743928991" />
+    <state width="1237" height="2" key="GridCell.Tab.0.bottom" timestamp="1582788038691">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="2" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1582788038691" />
+    <state width="1237" height="2" key="GridCell.Tab.0.center" timestamp="1582788038691">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="2" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1582788038691" />
+    <state width="1237" height="2" key="GridCell.Tab.0.left" timestamp="1582788038690">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="2" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1582788038690" />
+    <state width="1237" height="2" key="GridCell.Tab.0.right" timestamp="1582788038691">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="2" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1582788038691" />
+    <state x="142" y="4" key="SettingsEditor" timestamp="1582744263611">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="142" y="4" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1582744263611" />
+  </component>
+</project>
